@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Acme::GroundStation	lib/Acme/GroundStation.pm	1;"	p
+Acme::GroundStation::Controller::Example	lib/Acme/GroundStation/Controller/Example.pm	1;"	p
+Acme::GroundStation::Controller::Example::welcome	lib/Acme/GroundStation/Controller/Example.pm	5;"	s
+Acme::GroundStation::Driver::AntennaVendor	lib/Acme/GroundStation/Driver/AntennaVendor.pm	2;"	p
+Acme::GroundStation::Driver::AntennaVendor::Client	lib/Acme/GroundStation/Driver/AntennaVendor/Client.pm	1;"	p
+Acme::GroundStation::Driver::AntennaVendor::Client::_parse_buffer	lib/Acme/GroundStation/Driver/AntennaVendor/Client.pm	34;"	s
+Acme::GroundStation::Driver::AntennaVendor::Client::new	lib/Acme/GroundStation/Driver/AntennaVendor/Client.pm	27;"	s
+Acme::GroundStation::Driver::AntennaVendor::Server	lib/Acme/GroundStation/Driver/AntennaVendor/Server.pm	1;"	p
+Acme::GroundStation::Driver::AntennaVendor::Server::new	lib/Acme/GroundStation/Driver/AntennaVendor/Server.pm	28;"	s
+Acme::GroundStation::startup	lib/Acme/GroundStation.pm	20;"	s
+_parse_buffer	lib/Acme/GroundStation/Driver/AntennaVendor/Client.pm	34;"	s
+new	lib/Acme/GroundStation/Driver/AntennaVendor/Client.pm	27;"	s
+new	lib/Acme/GroundStation/Driver/AntennaVendor/Server.pm	28;"	s
+startup	lib/Acme/GroundStation.pm	20;"	s
+welcome	lib/Acme/GroundStation/Controller/Example.pm	5;"	s
